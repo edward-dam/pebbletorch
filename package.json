@@ -1,15 +1,29 @@
 {
-    "author": "edward.dam@gmail.com",
+    "author": "Edward Dam",
     "dependencies": {},
     "keywords": [],
-    "name": "torch",
+    "name": "torch-v1.0",
     "pebble": {
-        "displayName": "Torch",
+        "displayName": "Torch v1.0",
         "enableMultiJS": true,
         "messageKeys": [],
         "projectType": "native",
         "resources": {
-            "media": []
+            "media": [
+                {
+                    "file": "images/menu_icon.png",
+                    "menuIcon": true,
+                    "name": "MENU_ICON",
+                    "targetPlatforms": [
+                        "aplite",
+                        "basalt",
+                        "chalk",
+                        "diorite",
+                        "emery"
+                    ],
+                    "type": "bitmap"
+                }
+            ]
         },
         "sdkVersion": "3",
         "targetPlatforms": [
