@@ -1,0 +1,28 @@
+{
+    "author": "edward.dam@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "torch",
+    "pebble": {
+        "displayName": "Torch",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk",
+            "diorite",
+            "emery"
+        ],
+        "uuid": "142cca2f-3aa9-454b-b8f8-1ebb3a5fa8ac",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
