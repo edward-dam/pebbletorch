@@ -1,4 +1,6 @@
 # assets
 Icons
 
+Screenshots
+
 Banners
