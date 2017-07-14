@@ -10,7 +10,7 @@
 
 ### app store
 
-https://apps.getpebble.com/applications/5873514c5de8509ab50007e8
+https://apps.getpebble.com/en_US/application/5873514c5de8509ab50007e8
 
 ### description
 
